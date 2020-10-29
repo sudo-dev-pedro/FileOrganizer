@@ -1,6 +1,6 @@
 # Organizador de Arquivos
 <h1 align='center' >
-  <img alt='Happy' src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fmwissem%2Fpython-programming-series-part-1--introduction-59n2&psig=AOvVaw0M5_dQ6mj0FGRziHMjJyG0&ust=1604071630612000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMi-6dGO2uwCFQAAAAAdAAAAABAD' />
+  <img alt='Python' src='https://imgur.com/zJCHJvU' />
 </h1>
 
 Algoritmo desenvolvido em python voltado para a organização de documentos (docx, pdf e txt) e arquivos de música (mp3, mp0, m4a, wav e flac) .
