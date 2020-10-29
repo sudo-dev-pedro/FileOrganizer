@@ -1,7 +1,6 @@
 # Organizador de Arquivos
-<h1 align='center' >
-  <img alt='Python' src='https://imgur.com/zJCHJvU' />
-</h1>
+
+[Imgur](https://imgur.com/zJCHJvU)
 
 Algoritmo desenvolvido em python voltado para a organização de documentos (docx, pdf e txt) e arquivos de música (mp3, mp0, m4a, wav e flac) .
 
